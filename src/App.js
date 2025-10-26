@@ -69,7 +69,7 @@ function App() {
                     <div className="space-y-3">
                         <h5 className="text-lg font-semibold">Contact</h5>
                         <p className="text-slate-600">hello@rbtech.global</p>
-                        <p className="text-slate-600">+91-9910339578 / +966-541045831</p>
+                        <p className="text-slate-600">+91-123432123 / +966-3212342234</p>
                     </div>
                     <div className="bg-slate-50 p-4 rounded-lg glass-card">
                         <h6 className="font-medium">Quick Contact</h6>
@@ -85,8 +85,8 @@ function App() {
 
             <footer className="mt-16 border-t py-8 bg-white">
                 <div className="max-w-7xl mx-auto px-6 flex flex-col md:flex-row items-center justify-between gap-4 text-sm text-slate-600">
-                    <div>© {new Date().getFullYear()} RB Technologies — Global Identity & Security Services</div>
-                    <div>Follow: LinkedIn · Twitter · GitHub</div>
+                    <div>Â© {new Date().getFullYear()} RB Technologies â€” Global Identity & Security Services</div>
+                    <div>Follow: LinkedIn Â· Twitter Â· GitHub</div>
                 </div>
             </footer>
         </div>
